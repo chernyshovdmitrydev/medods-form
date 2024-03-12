@@ -1,0 +1,1 @@
+export const validateNumber = (value) => value.charAt(0) === '7';
